@@ -7,6 +7,12 @@
 a{
 	text-decoration: none!important;
 }
+h2{
+  color:black;
+}
+p{
+  color: black;
+}
 .clearfix:after {
  content: "";
  clear: both;
